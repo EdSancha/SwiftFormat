@@ -9,7 +9,7 @@
   "homepage": "https://github.com/nicklockwood/SwiftFormat",
   "authors": "Nick Lockwood",
   "source": {
-    "git": "https://github.com/EdSancha/SwiftFormat.git",
+    "git": "https://github.com/nicklockwood/SwiftFormat.git",
     "tag": "0.40.8"
   },
   "default_subspecs": "Core",
@@ -21,7 +21,7 @@
     {
       "name": "CLI",
       "preserve_paths": "CommandLineTool/swiftformat",
-      "source_files": "CommandLineTool"
+      "source_files": "CommandLineTool",
       "platforms": {
         "ios": "7.0",
         "tvos": "9.0",
