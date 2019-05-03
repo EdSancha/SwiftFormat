@@ -9,7 +9,7 @@
   "homepage": "https://github.com/nicklockwood/SwiftFormat",
   "authors": "Nick Lockwood",
   "source": {
-    "git": "https://github.com/nicklockwood/SwiftFormat.git",
+    "git": "https://github.com/EdSancha/SwiftFormat.git",
     "tag": "0.40.8"
   },
   "default_subspecs": "Core",
