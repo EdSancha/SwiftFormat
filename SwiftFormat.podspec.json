@@ -21,6 +21,7 @@
     {
       "name": "CLI",
       "preserve_paths": "CommandLineTool/swiftformat",
+      "source_files": "CommandLineTool"
       "platforms": {
         "ios": "7.0",
         "tvos": "9.0",
